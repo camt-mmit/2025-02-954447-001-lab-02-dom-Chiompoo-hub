@@ -5,3 +5,9 @@
     'GRAD' 0,
     'opsz' 48;
 }
+
+.app-but-container h1 {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
